@@ -1,0 +1,3 @@
+Aspect,Metric,Comparison,t_statistic,p_value,significant_at_0.05
+Encryption,KGT,RSA vs ECC,4.363757650673368,0.001813505483404746,True
+Encryption,ET,RSA vs ECC,-18.090933292429828,1.9031344701033316e-46,True
