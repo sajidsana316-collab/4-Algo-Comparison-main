@@ -1,3 +1,0 @@
-Aspect,Metric,Comparison,t_statistic,p_value,significant_at_0.05
-KeyExchange,KGT,ECC vs DH,-36.197533430809266,4.335518786750961e-13,True
-KeyExchange,ET,ECC vs DH,18.759005594516132,1.0736498771112056e-54,True
